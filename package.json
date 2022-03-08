@@ -1,0 +1,11 @@
+{
+  "name": "Web Satan",
+  "version": "1.0.0",
+  "description": "Web Satan",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "got": "^11.8.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
